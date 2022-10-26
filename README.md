@@ -1,4 +1,4 @@
-# Everythibg-be-true
+# Everything-be-true
 
 Check if the predicate (second argument) is truthy on all elements of a collection (first argument).
 
